@@ -16,6 +16,7 @@ const Hero =() =>{
                         Once upon a time, in a far-off land, there was a very lazy king who
                         spent all day lounging on his throne. One day, his advisors came to him
                         with a problem: the kingdom was running out of money.
+                        chanages
                     </p>
                     <Button className="bg-black h-12 px-8 mt-4" >Start Shopping</Button> 
                 </div>
